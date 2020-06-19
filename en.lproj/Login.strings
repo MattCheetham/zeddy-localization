@@ -1,0 +1,27 @@
+
+/*Class = "UIButton"; disabledTitle = "Logging in..."; ObjectID = "AN5-W8-yHg";*/
+"AN5-W8-yHg.disabledTitle" = "Logging in...";
+
+/*Class = "UIButton"; normalTitle = "Login"; ObjectID = "AN5-W8-yHg";*/
+"AN5-W8-yHg.normalTitle" = "Log in with MyRenault";
+
+/* Class = "UIButton"; normalTitle = "Log in with Z.E. Services"; ObjectID = "Mgc-A2-gFM"; */
+"Mgc-A2-gFM.normalTitle" = "Log in with Z.E. Services";
+
+/* Class = "UITextView"; text = "Zeddy is designed to make accessing charge status about your Renault Z.E. vehicle easy.\n\nYour Z.E. Services username and password are not stored by Zeddy and are only used to perform the initial login using Renault's servers unless you accept the prompt asking to save credentials which enables features such as Siri. All requests are made by your device and are not sent to any third party servers.\n\nZeddy is not assosciated, approved or connected with Renault or Groupe Renault in any way and as such is not responsible for your Renault vehicle or services in any way."; ObjectID = "QwP-xg-LNL"; */
+"QwP-xg-LNL.text" = "Zeddy is designed to make accessing charge status about your Renault Z.E. vehicle easy.\n\nYour Z.E. Services username and password are not stored by Zeddy and are only used to perform the initial login using Renault's servers unless you accept the prompt asking to save credentials which enables features such as Siri. All requests are made by your device and are not sent to any third party servers.\n\nZeddy is not assosciated, approved or connected with Renault or Groupe Renault in any way and as such is not responsible for your Renault vehicle or services in any way.";
+
+/*Class = "UIViewController"; title = "Login"; ObjectID = "RXS-mv-dHa";*/
+"RXS-mv-dHa.title" = "Login";
+
+/*Class = "UIViewController"; title = "About Zeddy"; ObjectID = "Y6n-e9-TJX";*/
+"Y6n-e9-TJX.title" = "About Zeddy";
+
+/*Class = "UITextField"; placeholder = "Z.E. Services email"; ObjectID = "aon-8I-PwW";*/
+"aon-8I-PwW.placeholder" = "E-mail";
+
+/*Class = "UINavigationItem"; title = "Zeddy"; ObjectID = "l0h-tw-Rbr";*/
+"l0h-tw-Rbr.title" = "Zeddy";
+
+/*Class = "UITextField"; placeholder = "Password"; ObjectID = "tue-5V-dhp";*/
+"tue-5V-dhp.placeholder" = "Password";

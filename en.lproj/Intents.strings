@@ -1,0 +1,42 @@
+"38YXI2" = "Zeddy requires you to store your credentials in the keychain to use these functions. Please log out of Zeddy and in again, and allow Zeddy to store your credentials in the keychain.";
+
+"9A6WJJ" = "Get car power level status";
+
+"BYOoe6" = "A request to get the car power level status for the user";
+
+"CY9098" = "Pre-condition";
+
+"G0WjeX" = "Pre-condition";
+
+"G9NetG" = "Zeddy requires you to store your credentials in the keychain to use these functions. Please log out of Zeddy and in again, and allow Zeddy to store your credentials in the keychain.";
+
+"GK0hcv" = "Charge request sent";
+
+"HK0KKx" = "Car Name";
+
+"PyRWFc" = "Authentication failed. Please sign into Zeddy";
+
+"QOV8uW" = "Pre-condition request sent.";
+
+"RzqyYR" = "Something went wrong";
+
+"SlRYef" = "Start Charge";
+
+"U9M2Qg" = "Something went wrong";
+
+"WUkFVC" = "Request your vehicle begin a charge if it is connected to a cable";
+
+"Y65HBU" = "Send a request to your vehicle to begin pre-conditoning";
+
+"dcITXC" = "Authentication failed. Please sign into Zeddy.";
+
+"fyIuVx" = "Requests that the car begin charging now";
+
+"k3SZTK" = "Start Charge";
+
+"qYLAAH" = "Get power level of ${carName}";
+
+"u6QHya" = "Gets the charging status, battery status and remaining range of ${carName}";
+
+"zSwklG" = "Asks your car to precondition now";
+

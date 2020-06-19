@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chargehistory_label_charges</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@charges@</string>
+		<key>charges</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>i</string>
+			<key>zero</key>
+			<string>Charges</string>
+			<key>one</key>
+			<string>Charge</string>
+			<key>two</key>
+			<string>Charges</string>
+			<key>few</key>
+			<string>Charges</string>
+			<key>many</key>
+			<string>Charges</string>
+			<key>other</key>
+			<string>Charges</string>
+		</dict>
+	</dict>
+	<key>chargehistory_label_errors</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@errors@</string>
+		<key>errors</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>i</string>
+			<key>zero</key>
+			<string>Errors</string>
+			<key>one</key>
+			<string>Error</string>
+			<key>two</key>
+			<string>Errors</string>
+			<key>few</key>
+			<string>Errors</string>
+			<key>many</key>
+			<string>Errors</string>
+			<key>other</key>
+			<string>Errors</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
