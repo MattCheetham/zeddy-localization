@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IntentPhrases</key>
+	<array>
+		<dict>
+			<key>IntentExamples</key>
+			<array>
+				<string>Is mijn voertuig aan het laden?</string>
+				<string>Is mijn voertuig klaar met laden?</string>
+				<string>Is mijn voertuig opgeladen?</string>
+				<string>Hoelang duurt het voordat mijn voertuig is opgeladen?</string>
+				<string>Hoeveel bereik heeft mijn vertuig?</string>
+			</array>
+			<key>IntentName</key>
+			<string>INGetCarPowerLevelStatusIntent</string>
+		</dict>
+	</array>
+</dict>
+</plist>

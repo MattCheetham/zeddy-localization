@@ -1,0 +1,164 @@
+/* 
+  Localisable.strings
+  Z.E. Status
+
+  Created by Matthew Cheetham on 11/10/2019.
+  Copyright © 2019 Matt Cheetham. All rights reserved.
+*/
+
+"alert_credentials_title" = "inloggegevens opslaan";
+"alert_credentials_body" = "Zeddy wil uw inloggegevens veilig opslaan in uw sleutelhanger. In het geval dat u bent uitgelogd bij Renault, kan Zeddy deze referentie gebruiken om zichzelf automatisch opnieuw te authenticeren. \N\nAls u uw auto met Siri wil besturen, moet u dit toestaan";
+"alert_credentials_accept" = "inloggegevens opslaan";
+"alert_credentials_reject" = "Nee, dank u wel";
+
+"alert_login_error_title" = "Er is een probleem met inloggen";
+"alert_login_error_body" = "Er is iets fout gegaan. Controleer uw gegevens en probeer het opnieuw.\n\n Foutmelding: %@";
+"alert_login_error_dismiss" = "OK";
+
+"last_updated" = "Laatste update: %@";
+"pull_to_refresh" = "Pull om te refreshen";
+
+"charger_type" = "%@ geladen";
+"status_charging" = "Bezig met laden";
+"status_plugged_nocharge" = "Verbonden, maar laadt niet";
+
+"cell_label_date" = "Datum";
+"cell_label_time" = "Tijd";
+"cell_label_speed" = "Snelheid";
+"cell_label_amount" = "Opgeladen";
+"cell_label_range" = "Bereik";
+
+"menu_alert_title" = "Opties";
+"menu_alert_option_precondition" = "Pre-airconditioning";
+
+"menu_precondition_alert_title" = "Pre-airconditioning";
+"menu_precondition_alert_body" = "Wilt u nu starten met pre-airconditioning?";
+"menu_precondition_alert_accept" = "Ja";
+"menu_precondition_alert_reject" = "Nee";
+
+"menu_alert_option_statusupdate" = "Vraag statusupdate aan";
+
+"menu_statusupdate_alert_title" = "Update aanvragen";
+"menu_statusupdate_alert_body" = "Dit stuurt een verzoek naar het voertuig om de batterijstatus op de servers van Renault bij te werken. Je kunt dit maar één keer per 20 minuten doen. Wilt u doorgaan?";
+"menu_statusupdate_accept" = "Ja";
+"menu_statusupdate_reject" = "Nee";
+
+"menu_alert_option_startcharge" = "Begin met opladen";
+
+"menu_startcharge_alert_title" = "Begin met opladen";
+"menu_startcharge_alert_body" = "Als er een kabel op uw voertuig is aangesloten en er is een oplaadpunt, wordt het oplaadpunt genegeerd om te beginnen met opladen. Wilt u nu echt opladen?";
+"menu_startcharge_accept" = "Ja";
+"menu_startcharge_reject" = "Nee";
+
+"menu_alert_option_settings" = "Instellingen";
+"menu_alert_option_logout" = "Uitloggen";
+"menu_alert_option_cancel" = "Annuleren";
+
+"siri_action_precondition_suggestion" = "Verwarm mijn voertuig voor";
+
+"precondition_sent_alert_title" = "Pre-airconditioning";
+"precondition_sent_alert_body" = "Het verzoek is verzonden";
+"precondition_sent_alert_okay" = "OK";
+
+"siri_action_charge_suggestion" = "Laad het voertuig nu op";
+
+"statusupdate_sent_alert_title" = "Voertuigstatus bijwerken";
+"statusupdate_sent_alert_body" = "Het verzoek is verzonden. Wacht een paar minuten en vernieuw.";
+"statusupdate_sent_alert_okay" = "OK";
+
+"statusupdate_failed_alert_title" = "Voertuigstatus bijwerken is mislukt";
+"statusupdate_failed_alert_okay" = "OK";
+
+"charging_speed_slow" = "Langzaam";
+"charging_speed_accelerated" = "Versnelt";
+"charging_speed_fast" = "Snel";
+"charging_speed_unknown" = "Onbekend";
+
+"setting_active_vehicle" = "Actieve Chassis nummer";
+"setting_active_vehicle_unknown" = "Onbekend";
+"setting_vehicle_model" = "Voertuigmodel";
+"setting_vehicle_model_unknown" = "Onbekend";
+
+"setting_theme" = "Thema";
+"setting_theme_auto" = "Auto";
+"setting_theme_dark" = "Donker";
+"setting_theme_light" = "Licht";
+
+"setting_theme_select_title" = "Selecteer een thema";
+"setting_theme_select_body" = "Auto schakelt automatisch tussen licht en donker met iOS 13";
+"setting_theme_select_cancel" = "Annuleren";
+
+"picker_button_cancel" = "Annuleren";
+"picker_button_save" = "Opslaan";
+
+"overview_cell_label_range" = "Bereik";
+"overview_cell_label_charge" = "Laadniveau";
+"overview_cell_label_temperature_battery" = "Temparatuur";
+"overview_cell_label_temperature_outside" = "Temparatuur buiten";
+"overview_cell_label_charging_remaining" = "Tot vol";
+"overview_cell_label_charging_speed" = "Snelheid";
+"overview_cell_label_odometer" = "Kilometerstand";
+"overview_cell_label_precondition_schedule" = "Pre-airconditioning";
+"overview_cell_label_charge_scheduled" = "Gepland schema";
+
+"overview_section_header_charging" = "Laden";
+"overview_section_header_upcoming_charge" = "Aankomende laadsessie";
+"overview_section_header_battery" = "Batterij";
+"overview_section_header_vehicle" = "Voertuig";
+
+"menu_chargeschedule_alert_title" = "Laadschema";
+"menu_chargeschedule_alert_body" = "Wat zou u willen doen?";
+"menu_chargeschedule_button_enable" = "Laadschema inschakelen";
+"menu_chargeschedule_button_disable" = "Laadschema uitschakelen";
+"menu_chargeschedule_button_cancel" = "Annuleren";
+"chargeschedule_adjusted_alert_title" = "Laadschema";
+"chargeschedule_adjusted_alert_body" = "Uw wijzigingen in het laadschema zijn opgeslagen";
+"chargeschedule_adjusted_alert_okay" = "OK";
+
+"chargehistory_label_time_on_charge" = "Laadtijd";
+
+"charge_speed_alert_title" = "Laadsnelheid";
+"charge_speed_alert_body" = "De Renault API geeft geen nauwkeurige informatie over de laadsnelheid. Zeddy berekent een geschatte laadsnelheid voor uw ladingen. De berekende laadsnelheid is de geschatte DC-invoer voor de accu van uw voertuig en deze lijkt lager dan de werkelijke werkelijke uitvoer van de oplader. De SOH van uw batterij kan ook van invloed zijn op dit aantal.";
+"charge_speed_alert_dismiss" = "OK";
+
+"tab_title_status" = "Status";
+"tab_title_charges" = "Laad geschiedenis";
+"tab_title_settings" = "Instellingen";
+
+"overview_menu_range_map" = "Open Range Map";
+
+"startcharge_sent_alert_title" = "Verzend laadverzoek";
+"startcharge_sent_alert_body" = "Het verzoek is verzonden";
+"startcharge_sent_alert_okay" = "OK";
+
+"map_type_standard" = "Standaard";
+"map_type_satellite" = "Satelliet";
+
+"settings_option_diagnostics" = "Verzamel logboeken";
+"settings_option_about" = "Over";
+"overview_section_header_status" = "Status";
+
+"header_status_plug_in" = "Ingeplugd.";
+"header_status_unplugged" = "Uitgeplugd.";
+"header_status_charging_ended" = "Het opladen is voltooid.";
+"header_status_charging_charging" = "Opladen.";
+"header_status_charging_flap_open" = "Laadklep open.";
+"header_status_charging_not_charging" = "Niet opladen.";
+"header_status_charging_unavailable" = "Laadstatus is niet beschikbaar.";
+"header_status_charging_waiting_planned" = "Wachten om op geplande tijd op te laden.";
+"header_status_charging_waiting_current" = "Wachten tot de huidige lading begint.";
+"header_status_location_moving" = "Voertuig rijdt.";
+
+"settings_option_tipjar" = "Fooienpot";
+"tipjar_label_explanation" = "Zeddy is ontwikkeld en onderhouden door mij, Matt Cheetham, in mijn vrije tijd. \N\nZeddy is volledig gratis te gebruiken, maar als u voor mij een koffie wil kopen als bedankje, kunt u hier de fooi opties vinden. \N\nIk stel uw steun zeer op prijs.";
+"tipjar_tip_name_tip-small" = "🍫 Snack donatie";
+"tipjar_tip_name_tip-medium" = "☕️ Koffie donatie";
+"tipjar_tip_name_tip-large" = "🌯 Lunch donatie";
+"tipjar_tip_name_tip-huge" = "📽 Bioscoop donatie";
+"tipjar_tip_name_tip-gigantic" = "🥡 Afhaal donatie";
+"tipjar_alert_thankyou_title" = "Bedankt";
+"tipjar_alert_thankyou_body" = "Echt, uit de grond van mijn hart heel erg bedankt voor het steunen van mij, het betekent veel. Ik beloof dat ik uw tip(s) zal gebruiken om de toekomstige ontwikkeling van Zeddy te stimuleren.";
+"tipjar_alert_thankyou_dismiss" = "Geen probleem!";
+
+"about_option_support" = "Krijg ondersteuning";
+"settings_option_review" = "Laat een recentie achter";

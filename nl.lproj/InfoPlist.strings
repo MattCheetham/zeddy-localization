@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Z.E. Status
+
+  Created by Matthew Cheetham on 11/10/2019.
+  Copyright © 2019 Matt Cheetham. All rights reserved.
+*/
+
+"NSSiriUsageDescription" = "Siri heeft toegang tot de batterijstatus van uw Renault ZOE. U kunt siri vragen naar het laadniveau, het resterende bereik of de laadstatus.";
+"NSLocationWhenInUseUsageDescription" = "We zullen uw huidige locatie gebruiken om te laten zien hoe ver u kunt rijden vanaf de huidige locatie.";
