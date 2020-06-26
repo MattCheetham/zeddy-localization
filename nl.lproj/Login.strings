@@ -1,0 +1,26 @@
+
+/*Class = "UIButton"; disabledTitle = "Logging in..."; ObjectID = "AN5-W8-yHg";*/
+"AN5-W8-yHg.disabledTitle" = "Inloggen...";
+
+/*Class = "UIButton"; normalTitle = "Login"; ObjectID = "AN5-W8-yHg";*/
+"AN5-W8-yHg.normalTitle" = "Login met uw My Renault gegevens";
+
+/* Class = "UIButton"; normalTitle = "Log in with Z.E. Services"; ObjectID = "Mgc-A2-gFM"; */
+"Mgc-A2-gFM.normalTitle" = "Login met uw Z.E. Services gegevens";
+
+/* Class = "UITextView"; text = "Zeddy is gemaakt om de laadstatus van uw Z.E. auto uit te lezen.\n\n Uw Z.E. gebruikersnaam en wachtwoord van de Renault services worden niet door Zeddy opgeslagen en worden alleen gebruikt om de eerste login uit te voeren met de servers van Renault, tenzij u de prompt accepteert om inloggegevens op te slaan die functies zoals Siri mogelijk maken.\n\nAlle verzoeken worden gedaan door uw apparaat en worden niet verzonden naar servers van derden.\n\nZeddy is op geen enkele manier geassocieerd, goedgekeurd of verbonden met Renault of Renault Group en is als zodanig niet verantwoordelijk voor uw Renault voertuig of diensten."; ObjectID = "QwP-xg-LNL"; */
+
+/*Class = "UIViewController"; title = "Login"; ObjectID = "RXS-mv-dHa";*/
+"RXS-mv-dHa.title" = "Login";
+
+/*Class = "UIViewController"; title = "About Zeddy"; ObjectID = "Y6n-e9-TJX";*/
+"Y6n-e9-TJX.title" = "Over Zeddy";
+
+/*Class = "UITextField"; placeholder = "Z.E. Services email"; ObjectID = "aon-8I-PwW";*/
+"aon-8I-PwW.placeholder" = "E-mail";
+
+/*Class = "UINavigationItem"; title = "Zeddy"; ObjectID = "l0h-tw-Rbr";*/
+"l0h-tw-Rbr.title" = "Zeddy";
+
+/*Class = "UITextField"; placeholder = "Password"; ObjectID = "tue-5V-dhp";*/
+"tue-5V-dhp.placeholder" = "Wachtwoord";
