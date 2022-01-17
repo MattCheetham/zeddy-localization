@@ -1,0 +1,26 @@
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "HF8-pW-ITQ"; */
+"HF8-pW-ITQ.title" = "Paramètres";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "JNz-yd-Hvc"; */
+"JNz-yd-Hvc.title" = "Menu";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "OyT-vc-ej9"; */
+"OyT-vc-ej9.text" = "--";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "U7F-yq-JJo"; */
+"U7F-yq-JJo.text" = "--";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "dYz-4T-r0N"; */
+"dYz-4T-r0N.text" = "--";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "fBn-Is-TbG"; */
+"fBn-Is-TbG.text" = "--";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "kUq-HX-yVy"; */
+"kUq-HX-yVy.title" = "Fait";
+
+/* Class = "UILabel"; text = "-- | --"; ObjectID = "sKb-kb-yku"; */
+"sKb-kb-yku.text" = "-- | --";
+
+/* Class = "UINavigationItem"; title = "Battery Information"; ObjectID = "t4i-KA-vGZ"; */
+"t4i-KA-vGZ.title" = "Informations sur la batterie";

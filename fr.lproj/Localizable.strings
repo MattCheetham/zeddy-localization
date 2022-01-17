@@ -1,0 +1,165 @@
+/* 
+  Localisable.strings
+  Z.E. Status
+
+  Created by Matthew Cheetham on 11/10/2019.
+  Copyright © 2019 Matt Cheetham. All rights reserved.
+  Copyright © 2022 Laurent Jean-Rigaud.
+*/
+
+"alert_credentials_title" = "Sauvegarder les identifiants";
+"alert_credentials_body" = "Zeddy désire mémoriser de façon sure vos identifiants dans un trousseau. Dans le cas où Renault vous déconnecte, Zeddy peut utiliser ces identifiants pour vous connecter automatiquement.\n\nSi vous voulez utiliser Siri pour contrôler votre voiture, vous devez accepter cette sauvegarde";
+"alert_credentials_accept" = "Sauvegarder les identifiants";
+"alert_credentials_reject" = "Non merci";
+
+"alert_login_error_title" = "Problème de connexion";
+"alert_login_error_body" = "Quelque chose ne va pas. Merci de vérifier vos détails et de re-essayer. \n\n Erreur : %@";
+"alert_login_error_dismiss" = "Ok";
+
+"last_updated" = "Last updated: %@";
+"pull_to_refresh" = "Tirer pour raffraichir";
+
+"charger_type" = "chargeur %@";
+"status_charging" = "En charge";
+"status_plugged_nocharge" = "Branchée, pas de charge";
+
+"cell_label_date" = "DATE";
+"cell_label_time" = "HEURE";
+"cell_label_speed" = "VITESSE";
+"cell_label_amount" = "CHARGE";
+"cell_label_range" = "AUTONOMIE";
+
+"menu_alert_title" = "Options";
+"menu_alert_option_precondition" = "Pré-conditionnement";
+
+"menu_precondition_alert_title" = "Pré-conditionnement";
+"menu_precondition_alert_body" = "Voulez vous lancer le pré-conditionnement maintenant ?";
+"menu_precondition_alert_accept" = "Oui";
+"menu_precondition_alert_reject" = "Non";
+
+"menu_alert_option_statusupdate" = "Etat de la requête";
+
+"menu_statusupdate_alert_title" = "Mise à jour de la requête";
+"menu_statusupdate_alert_body" = "Une requête va être émise au véhicule, demandant de mettre à jour le statut de la batterie avec les serveurs de Renault. Vous ne pouvez réaliser ceci qu'une seule fois toutes les 20 minutes. Voulez vous continuer ?";
+"menu_statusupdate_accept" = "Oui";
+"menu_statusupdate_reject" = "Non";
+
+"menu_alert_option_startcharge" = "Commencer la charge";
+
+"menu_startcharge_alert_title" = "Commencer la charge";
+"menu_startcharge_alert_body" = "Si un cable de chargement est connecté à votre véhicule et la planification des charges active, cela va remplacer la programmation pour démarrer la charge immédiatement. Démarrer la charge maintenant?";
+"menu_startcharge_accept" = "Oui";
+"menu_startcharge_reject" = "Non";
+
+"menu_alert_option_settings" = "Réglages";
+"menu_alert_option_logout" = "Se déconnecter";
+"menu_alert_option_cancel" = "Annuler";
+
+"siri_action_precondition_suggestion" = "Préchauffer ma voiture";
+
+"precondition_sent_alert_title" = "Pré-conditionnement";
+"precondition_sent_alert_body" = "La requête a été envoyée";
+"precondition_sent_alert_okay" = "Ok";
+
+"siri_action_charge_suggestion" = "Charger ma voiture";
+
+"statusupdate_sent_alert_title" = "Requête mise à jour";
+"statusupdate_sent_alert_body" = "La requête a été envoyée. Merci de patienter quelques minutes puis tirer pour rafraîchir.";
+"statusupdate_sent_alert_okay" = "Ok";
+
+"statusupdate_failed_alert_title" = "Requête en erreur";
+"statusupdate_failed_alert_okay" = "Ok";
+
+"charging_speed_slow" = "Lente";
+"charging_speed_accelerated" = "Accélérée";
+"charging_speed_fast" = "Rapide";
+"charging_speed_unknown" = "Inconnue";
+
+"setting_active_vehicle" = "Véhicule actif";
+"setting_active_vehicle_unknown" = "Inconnu";
+"setting_vehicle_model" = "Modèle de véhicule";
+"setting_vehicle_model_unknown" = "Inconnu";
+
+"setting_theme" = "Thême";
+"setting_theme_auto" = "Auto";
+"setting_theme_dark" = "Sombre";
+"setting_theme_light" = "Clair";
+
+"setting_theme_select_title" = "Sélectionner un thême";
+"setting_theme_select_body" = "Auto va automatiquement sélectionner le thême clair ou sombre avec iOS 13";
+"setting_theme_select_cancel" = "Annuler";
+
+"picker_button_cancel" = "Annuler";
+"picker_button_save" = "Sauver";
+
+"overview_cell_label_range" = "Autonomie";
+"overview_cell_label_charge" = "Chargée";
+"overview_cell_label_temperature_battery" = "Température";
+"overview_cell_label_temperature_outside" = "Extérieur";
+"overview_cell_label_charging_remaining" = "Jusqu'au plein";
+"overview_cell_label_charging_speed" = "Vitesse";
+"overview_cell_label_odometer" = "Odométre";
+"overview_cell_label_precondition_schedule" = "Pré-conditionnement";
+"overview_cell_label_charge_scheduled" = "Planifiée";
+
+"overview_section_header_charging" = "En charge";
+"overview_section_header_upcoming_charge" = "Charge à venir";
+"overview_section_header_battery" = "Batterie";
+"overview_section_header_vehicle" = "Véhicule";
+
+"menu_chargeschedule_alert_title" = "Charge planifié";
+"menu_chargeschedule_alert_body" = "Que voulez vous faire ?";
+"menu_chargeschedule_button_enable" = "Activer le planificateur de charge";
+"menu_chargeschedule_button_disable" = "Désactiver le planificateur de charge";
+"menu_chargeschedule_button_cancel" = "Annuler";
+"chargeschedule_adjusted_alert_title" = "Planificateur de charge";
+"chargeschedule_adjusted_alert_body" = "Votre changement de planification des charges a été sauvegardé";
+"chargeschedule_adjusted_alert_okay" = "Ok";
+
+"chargehistory_label_time_on_charge" = "en charge";
+
+"charge_speed_alert_title" = "Vitesse de charge";
+"charge_speed_alert_body" = "L'API de Renault ne fournit pas une information précise de la vitesse de charge. Zeddy calcule une vitesse de charge estimée pour vos charges. La vitesse de charge calculée est une estimation du courant continu fourni à la batterie du véhicule et peut apparaitre inférieure à la valeur affichée par le chargeur. Le SOH de votre batterie peut aussi affecté cette valeur.";
+"charge_speed_alert_dismiss" = "Ok";
+
+"tab_title_status" = "Statut";
+"tab_title_charges" = "Charges";
+"tab_title_settings" = "Réglages";
+
+"overview_menu_range_map" = "Ouvrir la carte d'accessibilité";
+
+"startcharge_sent_alert_title" = "Requête de charge envoyée";
+"startcharge_sent_alert_body" = "La requête a été envoyée";
+"startcharge_sent_alert_okay" = "Ok";
+
+"map_type_standard" = "Standard";
+"map_type_satellite" = "Satellite";
+
+"settings_option_diagnostics" = "Récupération des logs";
+"settings_option_about" = "A propos";
+"overview_section_header_status" = "Statut";
+
+"header_status_plug_in" = "Branché.";
+"header_status_unplugged" = "Débranché.";
+"header_status_charging_ended" = "Charge terminée.";
+"header_status_charging_charging" = "Charge en cours.";
+"header_status_charging_flap_open" = "Volet de charge ouvert.";
+"header_status_charging_not_charging" = "Pas de charge en cours.";
+"header_status_charging_unavailable" = "Etat de la charge non disponible.";
+"header_status_charging_waiting_planned" = "Charge en attente de l'heure programmée.";
+"header_status_charging_waiting_current" = "En attente du démarrage de la charge courante.";
+"header_status_location_moving" = "Véhicule en mouvement.";
+
+"settings_option_tipjar" = "Don à votre bon vouloir";
+"tipjar_label_explanation" = "Zeddy est développé et maintenu par moi, Matt Cheetham, dans mon temps libre.\n\nZeddy est complétement libre d'utilisation mais si vous voulez me payer un café pour me remercier, vous pouvez trouver un lien pour donner ici.\n\nJe suis très reconnaissant de votre support";
+"tipjar_tip_name_tip-small" = "🍫 don niveau bonbon";
+"tipjar_tip_name_tip-medium" = "☕️ don niveau café";
+"tipjar_tip_name_tip-large" = "🌯 don niveau repas";
+"tipjar_tip_name_tip-huge" = "📽 don niveau soirée cinéma";
+"tipjar_tip_name_tip-gigantic" = "🥡 don niveau ballade";
+"tipjar_alert_thankyou_title" = "Merci";
+"tipjar_alert_thankyou_body" = "Vraiment, du fond du coeur, merci beaucoup pour votre support, cela représente beaucoup pour moi. Je vous promez d'utiliser votre don pour réaliser des évolutions à Zeddy.";
+"tipjar_alert_thankyou_dismiss" = "Pas de problème !";
+
+"about_option_support" = "Accèder au support";
+"settings_option_review" = "Laisser un avis";
