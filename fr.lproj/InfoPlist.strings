@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Z.E. Status
+
+  Created by Matthew Cheetham on 11/10/2019.
+  Copyright © 2019 Matt Cheetham. All rights reserved.
+  Copyright © 2022 Laurent Jean-Rigaud.
+*/
+
+"NSSiriUsageDescription" = "Siri aura accés au statut de la baterie de votre véhicule. Vous pouvez demander à Siri le niveau de charge, l'autonomie restante ou l'état de la charge.";
+"NSLocationWhenInUseUsageDescription" = "Nous utilisons votre position actuelle pour estimer la distance maximale que vous pouvez effectuer depuis celle-ci";
